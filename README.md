@@ -2,7 +2,9 @@
 
 This is a simple brick breaker game using OpenGL (FreeGLUT) in C++. 
 
-This program uses 3 classes. I didn't feel the need to break this up into multiple class/header files.
+![image](https://i.ibb.co/b2whrHg/photo-image-design-200108.png)
+
+This program uses 3 classes. There was no need to break this up into multiple class/header files.
 
 Brick class 
     - Coordinates of each brick to be drawn
